@@ -1,3 +1,4 @@
+console.log('script is loaded');
 var number = document.getElementById('number')
 var event = document.createEvent('Event');
 event.initEvent('input', true, true);
