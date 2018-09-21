@@ -100,3 +100,5 @@ zipCode.addEventListener('input', function (e) {
 }, false);
 zipCode.dispatchEvent(event11);
 
+document.getElementById('helloworldtothewin').remove();
+console.log('script removed');
